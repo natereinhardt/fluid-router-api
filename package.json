@@ -1,0 +1,28 @@
+{
+  "name": "fluid-router-api",
+  "version": "0.0.1",
+  "description": "fluid-router API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natereinhardt/fluid-router-api.git"
+  },
+  "keywords": [
+    "EVE",
+    "Online",
+    "Discord",
+    "Bot"
+  ],
+  "author": "Nate Reinhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natereinhardt/fluid-router-api/issues"
+  },
+  "homepage": "https://github.com/natereinhardt/fluid-router-api#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  }
+}
